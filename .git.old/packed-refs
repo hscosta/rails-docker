@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f43f5159b5f9483690d4a6b56debc55c7bbea89 refs/remotes/origin/compose-workflow
+5cfe49b393883a253294c7169964d74a3cc326f4 refs/remotes/origin/kubernetes-workflow
+e4ce9f7dd087060c2c46e36d640ef39d1a79d2ba refs/remotes/origin/master
